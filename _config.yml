@@ -88,7 +88,7 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: true
+      related: false
       toc: true
       toc_sticky: true
       toc_icon: "server" # Other logos: https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=solid&m=free
