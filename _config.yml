@@ -1,25 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# bundle exec jekyll serve --livereload
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: eplots blog
 email: p.stolpe@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   A script-kiddies infosec blog.
 twitter_username: eplotssec
 github_username: eplots
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -30,6 +17,7 @@ permalink: /:categories/:title/
 paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Stockholm
+logo: "/assets/images/avatar_trans.png"
 
 include:
   - _pages
@@ -57,9 +45,9 @@ plugins:
 
 author:
   name   : "eplots"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar_trans.png"
   bio    : "A script kiddie that wants to learn..."
-  location: "Over there"
+  # location: "Over there"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -103,6 +91,8 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      toc_icon: "server" # Other logos: https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=solid&m=free
+      toc_label: "Content"
   # _pages
   - scope:
       path: "_pages"
