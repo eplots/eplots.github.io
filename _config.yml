@@ -4,7 +4,7 @@ title: eplots blog
 email: p.stolpe@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   A script-kiddies infosec blog.
-twitter_username: eplotssec
+twitter_username: eplots1
 github_username: eplots
 minimal_mistakes_skin: "dark"
 search: true
@@ -14,7 +14,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Stockholm
 logo: "/assets/images/avatar_trans.png"
@@ -54,13 +54,13 @@ author:
       url: "https://eplots.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eplotssec"
+      url: "https://twitter.com/eplots1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eplots"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/eplots" # change this to the right one before publishing!
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/eplots" # change this to the right one before publishing!
 
 footer:
   links:
@@ -70,9 +70,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eplots"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/eplots" # change this to the right one before publishing!
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/eplots" # change this to the right one before publishing!
 
 date_format: "%d %B, %Y"
 
