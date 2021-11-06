@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A script-kiddies infosec blog.
 twitter_username: eplotssec
 github_username: eplots
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
