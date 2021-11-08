@@ -27,7 +27,7 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+# exclude:Buy me a coffee
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -60,6 +60,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eplots"
+    - label: "Buy me a coffee"
+      icon: "fas fa-fw fa-coffee"
+      url: "https://www.buymeacoffee.com/eplots"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/eplots" # change this to the right one before publishing!
