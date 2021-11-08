@@ -11,7 +11,6 @@ tags:
 ---
 
 # Quick summary
-
 A simple start to the `OWASP Top 10 Task` on HTB.<br>
 This challenge focuses on `RCE` (Remote Code Execution)
 
