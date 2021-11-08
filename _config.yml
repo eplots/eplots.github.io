@@ -8,6 +8,7 @@ twitter_username: eplots1
 github_username: eplots
 minimal_mistakes_skin: "dark"
 search: true
+future: false
 
 # Build settings
 markdown: kramdown
