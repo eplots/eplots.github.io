@@ -19,3 +19,7 @@ The goals behind this blog are simple:
 * Write-ups.
 * Document what I learn.
 * Share knowledge that might help others.
+
+## Buy me a coffee
+If you find anything i write useful and want to support me:<br>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="eplots" data-color="#5F7FFF" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
