@@ -1,7 +1,5 @@
 # bundle exec jekyll serve --livereload
 
-google_site_verification: JaqbsL2ORBsrCv_CWrS1JYjGABTeqVNw19uCbH6FqdM
-
 title: eplots blog
 email: p.stolpe@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
