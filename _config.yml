@@ -51,6 +51,9 @@ author:
   bio    : "A script kiddie that wants to learn..."
   # location: "Over there"
   links:
+    - label: "Buy me a coffee"
+      icon: "fas fa-coffee"
+      url: "https://www.buymeacoffee.com/eplots"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://eplots.github.io"
@@ -60,15 +63,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eplots"
-    - label: "Buy me a coffee"
-      icon: "fas fa-coffee"
-      url: "https://www.buymeacoffee.com/eplots"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/eplots" # change this to the right one before publishing!
 
 footer:
   links:
+    - label: "Buy me a coffee"
+      icon: "fas fa-coffee"
+      url: "https://www.buymeacoffee.com/eplots"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eplots1"
