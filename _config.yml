@@ -61,7 +61,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eplots"
     - label: "Buy me a coffee"
-      icon: "fas fa-fw fa-coffee"
+      icon: "fas fa-coffee"
       url: "https://www.buymeacoffee.com/eplots"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
