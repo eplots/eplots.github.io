@@ -7,6 +7,7 @@ tags:
   - Easy-Challenge
   - Web
   - OWASP Top 10
+  - RCE
 ---
 
 # Quick summary
