@@ -21,6 +21,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Stockholm
 logo: "/assets/images/avatar_trans.png"
+og_image: "/assets/images/avatar_black.png"
 
 include:
   - _pages

@@ -6,6 +6,7 @@ categories:
 tags:
   - Easy-Box
   - Linux
+header.image: "/assets/htb/previse/previse_box_info.png"
 ---
 
 # Quick summary
