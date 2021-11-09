@@ -11,7 +11,7 @@ tags:
 ---
 
 # Quick summary
-
+A easy challenge in which we find a misconfigured instance that allows us to grab a backup of the SQLite DB.
 
 ## Description
 > Can you find a way to login as the administrator of the website and free nginxatsu?
