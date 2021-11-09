@@ -1,7 +1,6 @@
 ---
 title: "HTB: Nginxatsu"
 header.image: "/assets/images/avatar_black.png"
-#last_modified_at: 2021-11-09T14:19:00+01:00
 categories:
   - HTB
 tags:
