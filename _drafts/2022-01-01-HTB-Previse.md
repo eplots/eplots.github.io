@@ -1,12 +1,12 @@
 ---
 title: "HTB: Previse"
+header.image: "/assets/htb/previse/previse_box_info.png"
 last_modified_at: 2022-01-01T20:00:00+01:00
 categories:
   - HTB
 tags:
   - Easy-Box
   - Linux
-header.image: "/assets/htb/previse/previse_box_info.png"
 ---
 
 # Quick summary
